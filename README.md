@@ -1,3 +1,9 @@
+# React Codepen Clone
+
+<img src="./screenshot/screenshot.png" alt="Codepen Clone" />
+
+### React Codepen Clone with live reload and data saving in Local Storage
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
